@@ -1,12 +1,18 @@
 # Read_Sms_Hacking
-Đọc tin nhắn của mạng đi động 2G-4G
+Đọc tin nhắn của mạng đi động 2G-4G.
 
+Bài viết nhằm mục đích giúp bạn đọc hiểu hơn về mạng di động, các công cụ đo lường tín hiệu mạng di động, các công cụ phân tích và đọc gói tin tcp/ip \
+Bạn đọc lập trình không nên sử dụng kiến thức của mình vào các mục đích trái pháp luật.
+
+Mạng 2G-4G khi gửi tin nhắn xuống thẻ Sim chưa được mã hóa, nên chỉ cần một thiết bị bắt đúng giải tần số của BTS là có thể đọc được tin nhắn, nghe được audio thoại.
+
+Các thiết bị IOT như cửa cuốn, khóa xe ô tô, xe máy... cũng có thể bị hack bằng cách tương tự này.
 
   <p align="center">
-    <img alt="GSMEVIL Title" src="https://www.paladion.net/hs-fs/hubfs/Paladion--2019/resources/blogs/How%20to%20Build%20an%20IMSI%20Catcher/3.jpg?width=527&name=3.jpg" style="max-width:100%;max-height:100%;" />
+    <img src="https://www.paladion.net/hs-fs/hubfs/Paladion--2019/resources/blogs/How%20to%20Build%20an%20IMSI%20Catcher/3.jpg?width=527&name=3.jpg" style="max-width:100%;max-height:100%;" />
   </p>
 
-**Hacker cũng có thể tạo ra những trạm BTS giả mạo chưa tới 600$, hoặc sử dụng các thiết bị IMSI catcher**
+**Hacker cũng có thể tạo ra những trạm BTS giả mạo chưa tới 600$, hoặc sử dụng các thiết bị IMSI catcher** <br/>
 https://jurnal-singkat.blogspot.com/2016/04/building-portable-gsm-bts-using-nuand.html
 
 # Công cụ phần mềm

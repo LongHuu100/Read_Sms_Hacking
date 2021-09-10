@@ -4,7 +4,7 @@
 Bài viết nhằm mục đích giúp bạn đọc hiểu hơn về mạng di động, các công cụ đo lường tín hiệu mạng di động, các công cụ phân tích và đọc gói tin tcp/ip \
 Bạn đọc lập trình không nên sử dụng kiến thức của mình vào các mục đích trái pháp luật.
 
-Mạng 2G-4G khi gửi tin nhắn xuống thẻ Sim chưa được mã hóa, nên chỉ cần một thiết bị bắt đúng giải tần số của BTS là có thể đọc được tin nhắn, nghe được audio thoại.
+Mạng 2G-4G khi gửi tin nhắn xuống thẻ Sim đã được mã hóa tiêu tuân chuẩn GSM, chỉ cần một thiết bị bắt đúng giải tần số của BTS và thực hiện giải mã bằng software là có thể đọc được tin nhắn, nghe được audio thoại của kênh.
 
 Các thiết bị IOT như cửa cuốn, khóa xe ô tô, xe máy... cũng có thể bị hack bằng cách tương tự này.
 
